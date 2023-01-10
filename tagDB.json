@@ -353,1345 +353,1345 @@
         "id": 51,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
-        "tUniq": "(p2)(activation)",
-        "tTip": "Instruções de ativação de POS modelo p2"
-    },
-    {
-        "id": 52,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(battery-issues)",
         "tTip": "Workflow de problema de bateria na P2"
     },
     {
-        "id": 53,
+        "id": 52,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(cache-cleaning)",
         "tTip": "Processo de limpeza de cache na p2"
     },
     {
-        "id": 54,
+        "id": 53,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2-informations)",
         "tTip": "Informações gerais sobre a P2"
     },
     {
-        "id": 55,
+        "id": 54,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(pos-swap)",
         "tTip": "Chat em que foi necessário solicitar troca de POS"
     },
     {
-        "id": 56,
+        "id": 55,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(printing-issues)",
         "tTip": "Casos de workflow de falha na impressão"
     },
     {
-        "id": 57,
+        "id": 56,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(roller-paper-informations)",
         "tTip": "Informações gerais sobre bobinas"
     },
     {
-        "id": 58,
+        "id": 57,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920-p2)(battery-issues)",
         "tTip": "Casos de workflow de POS não liga (apenas p2 e s920)"
     },
     {
-        "id": 59,
+        "id": 58,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(battery-issues)",
         "tTip": "Para o Workflow de problemas de bateria da s920 que usamos em notas"
     },
     {
-        "id": 60,
+        "id": 59,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(battery-triage)",
         "tTip": "Processo de triagem de problemas na bateria da s920."
     },
     {
-        "id": 61,
+        "id": 60,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(connection)(chip)",
         "tTip": "Casos de workflow de problemas de conexão via chip na s920"
     },
     {
-        "id": 62,
+        "id": 61,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(connection)(wifi)",
         "tTip": "Para problemas de conexão wifi na s920"
     },
     {
-        "id": 63,
+        "id": 62,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920-informations)",
         "tTip": "Solicitação do Serial Number (SN) da s920"
     },
     {
-        "id": 64,
+        "id": 63,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(pix-informations)",
         "tTip": "Cliente perguntando sobre venda via PIX/QR Code na s920"
     },
     {
-        "id": 65,
+        "id": 64,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(software-charge)",
         "tTip": "Carga de sistema na POS s920"
     },
     {
-        "id": 66,
+        "id": 65,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(smart)(activation-information)",
         "tTip": "Passo a passo de ativação de POS modelo Smart (exceto gif)"
     },
     {
-        "id": 67,
+        "id": 66,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(smart)(battery-issues)",
         "tTip": "Casos de workflow de bateria descarregando muito rápido (apenas modelos Smart)"
     },
     {
-        "id": 68,
+        "id": 67,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(touchscreen-impaired)",
         "tTip": "Casos de workflow de problemas no touchscreen."
     },
     {
-        "id": 69,
+        "id": 68,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(typed-sale)",
         "tTip": "Informações sobre venda digitada"
     },
     {
-        "id": 70,
+        "id": 69,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(warranty-informations)",
         "tTip": "Questões sobre a garantia de POS"
     },
     {
-        "id": 71,
+        "id": 70,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(battery-issues)",
         "tTip": "Solicitação de dados de consumo da bateria de POS x990"
     },
     {
-        "id": 72,
+        "id": 71,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(cache-cleaning)",
         "tTip": "Processo de limpeza de cache na x990."
     },
     {
-        "id": 73,
+        "id": 72,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990-informations)",
         "tTip": "Solicitação do Serial Number (SN) da x990."
     },
     {
-        "id": 74,
+        "id": 73,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(timezone)",
         "tTip": "Instruções de ajuste do fuso horário da máquina para regiões fora do horário de Brasília."
     },
     {
-        "id": 75,
+        "id": 74,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(timezone)(gmt-3)",
         "tTip": "Instruções de ajuste do fuso horário da máquina para regiões que seguem o horário de Brasília"
     },
     {
-        "id": 76,
+        "id": 75,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(deleted-app)",
         "tTip": "ECs que deletaram o app da InfinitePay de sua x990"
     },
     {
-        "id": 77,
+        "id": 76,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(deleted-app)",
         "tTip": "ECs que deletaram o app da InfinitePay de sua P2"
     },
     {
-        "id": 78,
+        "id": 77,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(keyboard-issues)",
         "tTip": "Problemas no teclado físico da s920"
     },
     {
-        "id": 79,
+        "id": 78,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(slow-or-freezing)",
         "tTip": "P2 lenta ou travando"
     },
     {
-        "id": 80,
+        "id": 79,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(slow-or-freezing)",
         "tTip": "x990 lenta ou travando"
     },
     {
-        "id": 81,
+        "id": 80,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(slow-or-freezing)",
         "tTip": "s920 lenta ou travando"
     },
     {
-        "id": 82,
+        "id": 81,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(promotion-upgrade-pos)",
         "tTip": "Para upgrades de POS"
     },
     {
-        "id": 83,
+        "id": 82,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(chip-hologram-free-exchange)",
         "tTip": "Para casos onde enviamos um chip Algar gratuito para chips Hologram desativados"
     },
     {
-        "id": 84,
+        "id": 83,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(ped-tampered)",
         "tTip": "PED Tamper em s920"
     },
     {
-        "id": 85,
+        "id": 84,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(ped-tampered)",
         "tTip": "PED Tamper em x990"
     },
     {
-        "id": 86,
+        "id": 85,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(ped-tampered)",
         "tTip": "PED Tamper em p2"
     },
     {
-        "id": 87,
+        "id": 86,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(swapped-pos-activation)",
         "tTip": "Para quando o nosso EC recebe a POS de troca, mas não consegue ativá-la"
     },
     {
-        "id": 88,
+        "id": 87,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(internal-WF)(battery-issues)",
         "tTip": "Para quando abrimos o WF interno (de notas) para validação do Guardian sobre casos de Bateria"
     },
     {
-        "id": 89,
+        "id": 88,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(internal-WF)(ped-tampered)",
         "tTip": "Para quando abrimos o WF interno (de notas) para validação do Guardian sobre casos de Ped Tamper"
     },
     {
-        "id": 90,
+        "id": 89,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(deactivated-chip)",
         "tTip": "Para casos de chips inativados"
     },
     {
-        "id": 91,
+        "id": 90,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(permanent-chip-deactivation)",
         "tTip": "Para casos de chips inativados permanentemente, conforme anúncio do Luis Rosa"
     },
     {
-        "id": 92,
+        "id": 91,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(connection)(chip-nano)",
         "tTip": "Para caso de problemas com chips no slot errado da P2"
     },
     {
-        "id": 93,
+        "id": 92,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(no-SIM-POS-dispute)",
         "tTip": "Cliente reclama do recebimento da máquina sem chip"
     },
     {
-        "id": 94,
+        "id": 93,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(unrecoverable-pos)",
         "tTip": "Para POS irrecuperáveis, mas sem mau uso. (Ex: roubo, enchentes, etc)"
     },
     {
-        "id": 95,
+        "id": 94,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(misused-pos)",
         "tTip": "Para POS danificadas por mau uso"
     },
     {
-        "id": 96,
+        "id": 95,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(pos)(card-sale-tutorial)",
         "tTip": "Para tutorial ou dúvida sobre como vender usando cartões numa POS"
     },
     {
-        "id": 97,
+        "id": 96,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(pos)(nfc-sale-tutorial)",
         "tTip": "Para tutorial ou dúvida sobre como vender usando aproximação numa POS"
     },
     {
-        "id": 98,
+        "id": 97,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(s920)(update)",
         "tTip": "Para quando precisamos atualizar uma s920"
     },
     {
-        "id": 99,
+        "id": 98,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(smart)(update)",
         "tTip": "Para quando precisamos atualizar uma POS Smart"
     },
     {
-        "id": 100,
+        "id": 99,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(connection)(chip)(cw)",
         "tTip": "Para problemas com chip nosso (Algar) na P2"
     },
     {
-        "id": 101,
+        "id": 100,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(p2)(connection)(chip)(proprio)",
         "tTip": "Para problemas com chip próprio na P2"
     },
     {
-        "id": 102,
+        "id": 101,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(connection)(chip)(cw)",
         "tTip": "Para problemas com chip nosso (Algar) na X990"
     },
     {
-        "id": 103,
+        "id": 102,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(x990)(connection)(chip)(proprio)",
         "tTip": "Para problemas com chip próprio na x990"
     },
     {
-        "id": 104,
+        "id": 103,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(pos)(nfc-informations)",
         "tTip": "Para dúvidas gerais do funcionamento da função NFC nas POSes"
     },
     {
-        "id": 105,
+        "id": 104,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(pos)",
         "tUniq": "(smart)(connection)(wifi)",
         "tTip": "Dúvidas ou problemas gerais com wifi nas POSes Smart"
     },
     {
-        "id": 106,
+        "id": 105,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(enough-funds)",
         "tTip": "Confirmação de cancelamento de venda para cliente que tem recebíveis suficientes a serem descontados"
     },
     {
-        "id": 107,
+        "id": 106,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(insufficient-funds)",
         "tTip": "Cliente sem recebíveis suficientes para solicitação de cancelamento de venda"
     },
     {
-        "id": 108,
+        "id": 107,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(refund-informations)",
         "tTip": "Informações sobre prazo e fluxo de estorno de vendas canceladas"
     },
     {
-        "id": 109,
+        "id": 108,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(transfer-cw-details)",
         "tTip": "Dados da conta bancária da CW para clientes que optem por fazer transferência ao solicitar cancelamento de venda"
     },
     {
-        "id": 110,
+        "id": 109,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(d0-refund-request)",
         "tTip": "Interesse em cancelamento de venda em plano d+0"
     },
     {
-        "id": 111,
+        "id": 110,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(d0-refund-information)",
         "tTip": "Informações sobre cancelamento de venda em plano d+0"
     },
     {
-        "id": 112,
+        "id": 111,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(pos)(transaction-refund)",
         "tTip": "Para dúvidas sobre como cancelar vendas na POS"
     },
     {
-        "id": 113,
+        "id": 112,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(transaction-refund-request)",
         "tTip": "Confirmação de solicitação de cancelamento de venda"
     },
     {
-        "id": 114,
+        "id": 113,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(refund)",
         "tUniq": "(transaction-refund-interest)",
         "tTip": "Interesse e explicação sobre cancelamento de venda"
     },
     {
-        "id": 115,
+        "id": 114,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(sales)",
         "tUniq": "(pos-expensive)",
         "tTip": "Explicação sobre a diferença de preço da segunda POS"
     },
     {
-        "id": 116,
+        "id": 115,
         "mArea": "POS-DOUBT",
         "mAreaT": "(pos-doubt)(sales)",
         "tUniq": "(pos-price-informations)",
         "tTip": "Informações sobre o preço das máquinas e do Link de Pagamento"
     },
     {
-        "id": 117,
+        "id": 116,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(authorization)",
         "tUniq": "(auth-instability)",
         "tTip": "Casos de instabilidade geral que afetam transações"
     },
     {
-        "id": 118,
+        "id": 117,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(authorization)",
         "tUniq": "(improper-charge)",
         "tTip": "Usada para casos de cobrança indevida onde não houve desfazimento (venda denied, refunded, ou failed)"
     },
     {
-        "id": 119,
+        "id": 118,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(authorization)",
         "tUniq": "(denied-transaction-cardholder)",
         "tTip": "Para casos onde o Cardholder vem falar conosco sobre não conseguir transacionar conosco (link/pos)"
     },
     {
-        "id": 120,
+        "id": 119,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(authorization)",
         "tUniq": "(denied-transaction-authorizer)",
         "tTip": "Para qualquer venda negada por erro no autorizador"
     },
     {
-        "id": 121,
+        "id": 120,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(authorization)",
         "tUniq": "(error-63)(bank-related)",
         "tTip": "Para vendas negadas pelo erro 63 onde o emissor está incluso na ação judicial"
     },
     {
-        "id": 122,
+        "id": 121,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(connection)",
         "tUniq": "(connection-issues)(chip)",
         "tTip": "Para procedimentos de chip não necessariamente relacionados a um modelo de POS específico"
     },
     {
-        "id": 123,
+        "id": 122,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(connection)",
         "tUniq": "(chip-inactive)",
         "tTip": "Para casos de chip inativo"
     },
     {
-        "id": 124,
+        "id": 123,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(denied-monitoring-pos)",
         "tTip": "Para vendas negadas por risco que foram feitas pela POS"
     },
     {
-        "id": 125,
+        "id": 124,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(working-capital)",
         "tTip": "Para casos de autofinanciamento"
     },
     {
-        "id": 126,
+        "id": 125,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(denied-monitoring-payment-link-web)",
         "tTip": "Para vendas negadas por risco que foram feitas pelo link de pagamento web"
     },
     {
-        "id": 127,
+        "id": 126,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(denied-monitoring-payment-link)",
         "tTip": "Para vendas negadas por risco que foram feitas pelo link de pagamento do app"
     },
     {
-        "id": 128,
+        "id": 127,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(denied-monitoring-ecommerce)",
         "tTip": "Para vendas negadas por risco que foram feitas por ecommerce"
     },
     {
-        "id": 129,
+        "id": 128,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(sale-value-limit-amount)",
         "tTip": "Para vendas negadas por limit amount"
     },
     {
-        "id": 130,
+        "id": 129,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(monitoring)",
         "tUniq": "(sale-value-limit-amount-analysis)",
         "tTip": "Para solicitações de aumento de limit amount"
     },
     {
-        "id": 131,
+        "id": 130,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(pix)",
         "tUniq": "(pix-cashout-error)",
         "tTip": "Para erros de transfer cashout de pix onde o EC já está validado"
     },
     {
-        "id": 132,
+        "id": 131,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(pix)",
         "tUniq": "(pix-cashin-error)",
         "tTip": "Para erros de cash-ins de PIX"
     },
     {
-        "id": 133,
+        "id": 132,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(pix)",
         "tUniq": "(pix-key-issues)",
         "tTip": "Para quando o EC tem problemas com a chave pix"
     },
     {
-        "id": 134,
+        "id": 133,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(pos)",
         "tUniq": "(card-transaction-issues)",
         "tTip": "Problemas gerais com vendas por cartão presencial"
     },
     {
-        "id": 135,
+        "id": 134,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(pos)",
         "tUniq": "(nfc-issues)",
         "tTip": "Problemas gerais com vendas por aproximação"
     },
     {
-        "id": 136,
+        "id": 135,
         "mArea": "SALES-ERROR",
         "mAreaT": "(sales-error)(pos)",
         "tUniq": "(transaction-reversal)",
         "tTip": "Desfazimento"
     },
     {
-        "id": 137,
+        "id": 136,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app-features)",
         "tTip": "Para dúvidas gerais de funções do app"
     },
     {
-        "id": 138,
+        "id": 137,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app-instability)",
         "tTip": "Instabilidade no sistema do nosso aplicativo."
     },
     {
-        "id": 139,
+        "id": 138,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(clear-data)",
         "tTip": "Orientações de limpeza de cache do aplicativo."
     },
     {
-        "id": 140,
+        "id": 139,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(internal-sales-report)",
         "tTip": "Instruções de acesso ao relatório de vendas pelo aplicativo."
     },
     {
-        "id": 141,
+        "id": 140,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app-login-two-accounts)",
         "tTip": "Instruções de como logar no mesmo cadastro em diferentes aparelhos"
     },
     {
-        "id": 142,
+        "id": 141,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-how-to-pay)",
         "tTip": "Instruções sobre como pagar um link de pagamento (cardholder)"
     },
     {
-        "id": 143,
+        "id": 142,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-installment-information)",
         "tTip": "Instruções sobre como alterar parcelas no link de pagamento"
     },
     {
-        "id": 144,
+        "id": 143,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-creation-tutorial)",
         "tTip": "Instruções sobre como criar links de pagamento"
     },
     {
-        "id": 145,
+        "id": 144,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-app-informations)",
         "tTip": "Instruções sobre como vender via Link de Pagamento (exceto gif)."
     },
     {
-        "id": 146,
+        "id": 145,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-limit-amount)",
         "tTip": "Referente ao limite de R$10.000,00 do link de pagamento"
     },
     {
-        "id": 147,
+        "id": 146,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-security-tips)",
         "tTip": "Relacionado às dicas de segurança dos links de pagamento"
     },
     {
-        "id": 148,
+        "id": 147,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(update-app)",
         "tTip": "Instruções para atualização do nosso aplicativo"
     },
     {
-        "id": 149,
+        "id": 148,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(password-registration)",
         "tTip": "Para casos de criação da senha no nosso app"
     },
     {
-        "id": 150,
+        "id": 149,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap-tips)",
         "tTip": "Para dúvidas do InfiniteTap. Atenção: somente o @cse-beta pode usar essa tag!"
     },
     {
-        "id": 151,
+        "id": 150,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app-login-forgot-number)",
         "tTip": "Usada quando usuários esquecem o telefone registrado conosco"
     },
     {
-        "id": 152,
+        "id": 151,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app-how-to-login)",
         "tTip": "Usado para quando ensinamos usuários a logar no aplicativo"
     },
     {
-        "id": 153,
+        "id": 152,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app-login-SMS-issue)",
         "tTip": "Usado quando usuários tem dificuldades com o SMS relacionado ao login do app"
     },
     {
-        "id": 154,
+        "id": 153,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap)",
         "tTip": "Tag geral para atendimentos do InfiniteTap"
     },
     {
-        "id": 155,
+        "id": 154,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(mpos-security-crash)",
         "tTip": "Para casos onde o nosso EC tem problemas com a última versão do app devido o status MPOS"
     },
     {
-        "id": 156,
+        "id": 155,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap)(fees)",
         "tTip": "Para questões relacionadas às taxas aumentadas do InfiniteTap"
     },
     {
-        "id": 157,
+        "id": 156,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-creation-error) ",
         "tTip": "Para quando há erros ao criar o link de pagamento"
     },
     {
-        "id": 158,
+        "id": 157,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-web)",
         "tTip": "Atendimentos relacionados ao link de pagamento web"
     },
     {
-        "id": 159,
+        "id": 158,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-missing-transaction)",
         "tTip": "Erro específico desde dia 5/11 relativo a vendas por payment link que não aparecem no CRM"
     },
     {
-        "id": 160,
+        "id": 159,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap)(phone-not-supported)",
         "tTip": "Para telefones não suportados/sem NFC para o InfiniteTap"
     },
     {
-        "id": 161,
+        "id": 160,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap)(security-block)",
         "tTip": "Bloqueio de segurança do InfiniteTap"
     },
     {
-        "id": 162,
+        "id": 161,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap)(general-informations)",
         "tTip": "Informações e dúvidas gerais"
     },
     {
-        "id": 163,
+        "id": 162,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(payment-link-web-informations)",
         "tTip": "Para dúvidas sobre o link de pagamento web"
     },
     {
-        "id": 164,
+        "id": 163,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(infinitetap)(ios-interest)",
         "tTip": "Para clientes que usam iOS e tem interesse em serem notificados quando o InfiniteTap ser liberado para eles"
     },
     {
-        "id": 165,
+        "id": 164,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(sales-mode)",
         "tTip": "Para dúvidas gerais sobre a funcionalidade do modo convidado do app"
     },
     {
-        "id": 166,
+        "id": 165,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(sales-mode-interest)",
         "tTip": "Para clientes interessados no modo convidado do app"
     },
     {
-        "id": 167,
+        "id": 166,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(sales-mode-error)",
         "tTip": "Para quando o cliente enfrenta erros no modo convidado do app"
     },
     {
-        "id": 168,
+        "id": 167,
         "mArea": "SERVICES",
         "mAreaT": "(services)(app)",
         "tUniq": "(app)(transaction-refund)",
         "tTip": "Para dúvidas sobre como cancelar vendas no App"
     },
     {
-        "id": 169,
+        "id": 168,
         "mArea": "SERVICES",
         "mAreaT": "(services)(churn)",
         "tUniq": "(blocked-wo-pos-reversal)",
         "tTip": "Cliente bloqueado sem direito a coleta da POS e estorno."
     },
     {
-        "id": 170,
+        "id": 169,
         "mArea": "SERVICES",
         "mAreaT": "(services)(churn)",
         "tUniq": "(churn-reason)",
         "tTip": "Questionamento do motivo do pedido de cancelamento."
     },
     {
-        "id": 171,
+        "id": 170,
         "mArea": "SERVICES",
         "mAreaT": "(services)(churn)",
         "tUniq": "(collect-denied)",
         "tTip": "Coleta de POS negada."
     },
     {
-        "id": 172,
+        "id": 171,
         "mArea": "SERVICES",
         "mAreaT": "(services)(churn)",
         "tUniq": "(repurchase-denied)",
         "tTip": "Recompra de POS negada"
     },
     {
-        "id": 173,
+        "id": 172,
         "mArea": "SERVICES",
         "mAreaT": "(services)(churn)",
         "tUniq": "(repurchase-interest)",
         "tTip": "Cliente interessado no processo de recompra da POS"
     },
     {
-        "id": 174,
+        "id": 173,
         "mArea": "SERVICES",
         "mAreaT": "(services)(churn)",
         "tUniq": "(repurchase-processed)",
         "tTip": "Confirmação de recompra aprovada"
     },
     {
-        "id": 175,
+        "id": 174,
         "mArea": "SERVICES",
         "mAreaT": "(services)(dirf)",
         "tUniq": "(dirf-generate)",
         "tTip": "Instruções de como gerar a DIRF em nosso aplicativo (exceto gif)"
     },
     {
-        "id": 176,
+        "id": 175,
         "mArea": "SERVICES",
         "mAreaT": "(services)(dirf)",
         "tUniq": "(dirf-informations)",
         "tTip": "Detalhamento do que é e para que serve a DIRF."
     },
     {
-        "id": 177,
+        "id": 176,
         "mArea": "SERVICES",
         "mAreaT": "(services)(ecommerce)",
         "tUniq": "(ecommerce-queue)",
         "tTip": "Encaminhamento de chat para a fila de e-commerce"
     },
     {
-        "id": 178,
+        "id": 177,
         "mArea": "SERVICES",
         "mAreaT": "(services)(ecommerce)",
         "tUniq": "(ecommerce-credentials)",
         "tTip": "Para casos onde nosso cliente precisa de ajuda com as credenciais de ecommerce"
     },
     {
-        "id": 179,
+        "id": 178,
         "mArea": "SERVICES",
         "mAreaT": "(services)(ecommerce)",
         "tUniq": "(supported-web-stores-informations)",
         "tTip": "Para dúvidas gerais relacionadas aos portais de ecommerce que damos suporte"
     },
     {
-        "id": 180,
+        "id": 179,
         "mArea": "SERVICES",
         "mAreaT": "(services)(fees)",
         "tUniq": "(fees-informations)",
         "tTip": "Para informações gerais sobre nossas taxas"
     },
     {
-        "id": 181,
+        "id": 180,
         "mArea": "SERVICES",
         "mAreaT": "(services)(fees)",
         "tUniq": "(fees-complaint)",
         "tTip": "Para reclamações sobre nossas taxas"
     },
     {
-        "id": 182,
+        "id": 181,
         "mArea": "SERVICES",
         "mAreaT": "(services)(fees)",
         "tUniq": "(fees-negotiation)",
         "tTip": "Para tentativas de negociação das taxas"
     },
     {
-        "id": 183,
+        "id": 182,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(failed-infinitecard-transaction)",
         "tTip": "Falha na transação do InfiniteCard"
     },
     {
-        "id": 184,
+        "id": 183,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(card-creation-error)",
         "tTip": "Falha ao tentar criar o cartão (emissão/Issuing)"
     },
     {
-        "id": 185,
+        "id": 184,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(additional-card-info)",
         "tTip": "Duvidas sobre cartões adicionais"
     },
     {
-        "id": 186,
+        "id": 185,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(infinitecard-chargeback)",
         "tTip": "Contestação de transação no InfiniteCard (chargeback)"
     },
     {
-        "id": 187,
+        "id": 186,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(infinitecard-feedback)",
         "tTip": "Para contatos proativos sobre feedback de issuing"
     },
     {
-        "id": 188,
+        "id": 187,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(infinitecard-informations)",
         "tTip": "Para informações gerais do InfiniteCard"
     },
     {
-        "id": 189,
+        "id": 188,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(infinitecard)(cashback)",
         "tTip": "Para questões relacionadas ao nosso novo cashback de 1.5%"
     },
     {
-        "id": 190,
+        "id": 189,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(card-tokenization-error)",
         "tTip": "Para quando há falha ao tokenizar o cartão (Google wallet/Apple pay)"
     },
     {
-        "id": 191,
+        "id": 190,
         "mArea": "SERVICES",
         "mAreaT": "(services)(infinitecard)",
         "tUniq": "(card-block)",
         "tTip": "Solicitação ou questionamentos sobre bloqueios do InfiniteCard"
     },
     {
-        "id": 192,
+        "id": 191,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(card-brands)",
         "tTip": "Dúvidas sobre as bandeiras de cartão aceitas."
     },
     {
-        "id": 193,
+        "id": 192,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(contract-link)",
         "tTip": "Envio do link do nosso Contrato de Afiliação"
     },
     {
-        "id": 194,
+        "id": 193,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(service-channels)",
         "tTip": "Dúvidas sobre nossos canais de atendimento"
     },
     {
-        "id": 195,
+        "id": 194,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(site-informations)",
         "tTip": "Para dúvidas relacionadas ao nosso site"
     },
     {
-        "id": 196,
+        "id": 195,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(transaction-informations)",
         "tTip": "Para qualquer dúvida relacionada com transações no geral"
     },
     {
-        "id": 197,
+        "id": 196,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(customer-suggestion)",
         "tTip": "Para clientes nossos que sugerem funções e indicamos o site de feedback"
     },
     {
-        "id": 198,
+        "id": 197,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(legal-documents)",
         "tTip": "Para casos de recepção de documentos referentes a casos legais ou ofícios"
     },
     {
-        "id": 199,
+        "id": 198,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(black-friday-2022-information)",
         "tTip": "Dúvidas sobre participação e regulamentação da promoção de Black Friday 2022"
     },
     {
-        "id": 200,
+        "id": 199,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-infinitecard)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 201,
+        "id": 200,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-app)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 202,
+        "id": 201,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-cse)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 203,
+        "id": 202,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-lending)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 204,
+        "id": 203,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-fees)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 205,
+        "id": 204,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-pos)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 206,
+        "id": 205,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-sales)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 207,
+        "id": 206,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-dashboard)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 208,
+        "id": 207,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-services)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 209,
+        "id": 208,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-ecommerce)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 210,
+        "id": 209,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-user-experience)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 211,
+        "id": 210,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(suggestion-card-brand)",
         "tTip": "Usado pelo Rangel para mapeamento de sugestões"
     },
     {
-        "id": 212,
+        "id": 211,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(blockchain-instability)",
         "tTip": "Para casos onde a Blockchain passar por instabilidades que afetam nossos serviços"
     },
     {
-        "id": 213,
+        "id": 212,
         "mArea": "SERVICES",
         "mAreaT": "(services)(informations)",
         "tUniq": "(fake-infinitepay-profile)",
         "tTip": "Para quando clientes entram em contato conosco referente aos perfis falsos da Empresa em outros aplicativos"
     },
     {
-        "id": 214,
+        "id": 213,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(deadline-details)",
         "tTip": "Cliente com dúvidas sobre o prazo de pagamento do empréstimo."
     },
     {
-        "id": 215,
+        "id": 214,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-instability)",
         "tTip": "Instabilidade no sistema de empréstimo inteligente."
     },
     {
-        "id": 216,
+        "id": 215,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-interest)",
         "tTip": "Cliente mencionando interesse em contratar o empréstimo inteligente"
     },
     {
-        "id": 217,
+        "id": 216,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(excessive-discount)",
         "tTip": "Casos onde o Autopilot cobra valores a mais do cliente"
     },
     {
-        "id": 218,
+        "id": 217,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(autopilot-payment-error)",
         "tTip": "Casos onde há erro na hora de pagar os valores do Autopilot"
     },
     {
-        "id": 219,
+        "id": 218,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(sent-to-cerc)",
         "tTip": "Usada para casos onde enviamos nosso cliente para a CERC devido lendings em atraso"
     },
     {
-        "id": 220,
+        "id": 219,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(failed-lending-pix-payment)",
         "tTip": "Para casos de falhas de pagamento de lending relacionados ao QR code/PIX do app"
     },
     {
-        "id": 221,
+        "id": 220,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(autopilot)",
         "tTip": "Para questões gerais sobre o Autopilot"
     },
     {
-        "id": 222,
+        "id": 221,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(new-loan-request)",
         "tTip": "Solicitações de novos empréstimos"
     },
     {
-        "id": 223,
+        "id": 222,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-fees)",
         "tTip": "Dúvidas sobre as taxas do empréstino"
     },
     {
-        "id": 224,
+        "id": 223,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(loans-payment)",
         "tTip": "Dúvidas sobre os pagamentos do empréstimo"
     },
     {
-        "id": 225,
+        "id": 224,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-terms-and-conditions)",
         "tTip": "Dúvidas sobre termos e/ou condições do empréstimo"
     },
     {
-        "id": 226,
+        "id": 225,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-release)",
         "tTip": "Dúvidas gerais sobre a liberação do empréstimo"
     },
     {
-        "id": 227,
+        "id": 226,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-status)",
         "tTip": "Dúvidas sobre os status que aparece no extrato"
     },
     {
-        "id": 228,
+        "id": 227,
         "mArea": "SERVICES",
         "mAreaT": "(services)(lending)",
         "tUniq": "(lending-explanation)",
         "tTip": "Como é e como funciona o empréstimo"
     },
     {
-        "id": 229,
+        "id": 228,
         "mArea": "SERVICES",
         "mAreaT": "(services)(phone-support)",
         "tUniq": "(nps-no-return)",
         "tTip": "Chat aberto após insucesso no contato telefônico do NPS."
     },
     {
-        "id": 230,
+        "id": 229,
         "mArea": "SERVICES",
         "mAreaT": "(services)(phone-support)",
         "tUniq": "(ombudsman-contact)",
         "tTip": "Atendimentos encaminhados para a Ouvidoria"
     },
     {
-        "id": 231,
+        "id": 230,
         "mArea": "SERVICES",
         "mAreaT": "(services)(phone-support)",
         "tUniq": "(restricted-access)",
         "tTip": "Explicando ao cliente que a Central Telefônica ainda está restrita devido à fase de testes"
     },
     {
-        "id": 232,
+        "id": 231,
         "mArea": "SERVICES",
         "mAreaT": "(services)(phone-support)",
         "tUniq": "(proactive-phone-contact)",
         "tTip": "Usada quando ligamos proativamente para um cliente"
     },
     {
-        "id": 233,
+        "id": 232,
         "mArea": "SERVICES",
         "mAreaT": "(services)(receivables)",
         "tUniq": "(promo-xmas-challenge)",
         "tTip": "Para casos referentes à promoção de indicação natalina"
     },
     {
-        "id": 234,
+        "id": 233,
         "mArea": "SERVICES",
         "mAreaT": "(services)(receivables)",
         "tUniq": "(referral-program)",
         "tTip": "Para qualquer assunto relacionado ao sistema de referral"
     },
     {
-        "id": 235,
+        "id": 234,
         "mArea": "SERVICES",
         "mAreaT": "(services)(rewards)",
         "tUniq": "(nft-informations)",
         "tTip": "Informações sobre NFTs"
     },
     {
-        "id": 236,
+        "id": 235,
         "mArea": "SERVICES",
         "mAreaT": "(services)(rewards)",
         "tUniq": "(nft-rewards)",
         "tTip": "Informações sobre o sistema de cashback de NFTs da CW"
     },
     {
-        "id": 237,
+        "id": 236,
         "mArea": "SERVICES",
         "mAreaT": "(services)(web)",
         "tUniq": "(dash-information)",
         "tTip": "Tag para informações referentes a dashboard web."
     },
     {
-        "id": 238,
+        "id": 237,
         "mArea": "SERVICES",
         "mAreaT": "(services)(web)",
         "tUniq": "(dash-sales-report)",
         "tTip": "Informações sobre o relatório de vendas exportado da Dashboard"
     },
     {
-        "id": 239,
+        "id": 238,
         "mArea": "SERVICES",
         "mAreaT": "(services)(web)",
         "tUniq": "(dash-login-issues)",
         "tTip": "Problemas no login da Dashboard (control room)"
     },
     {
-        "id": 240,
+        "id": 239,
         "mArea": "SERVICES",
         "mAreaT": "(services)(web)",
         "tUniq": "(dash-cnpj-exchange)",
         "tTip": "Para quando ensinamos um EC a fazer a troca de titularidade pela dash web"
     },
     {
-        "id": 241,
+        "id": 240,
         "mArea": "SERVICES",
         "mAreaT": "(services)(web)",
         "tUniq": "(dash-QR-code-print)",
         "tTip": "Para quando ensinamos nossos ECs a imprimir o QR code que geramos pela dash web"
     },
     {
-        "id": 242,
+        "id": 241,
         "mArea": "SERVICES",
         "mAreaT": "(services)(web)",
         "tUniq": "(payment-link-web-denied)",
         "tTip": "Para quando uma tentativa de pagamento pelo Link web é negada"
+    },
+    {
+        "id": 242,
+        "mArea": "SERVICES",
+        "mAreaT": "(services)(web)",
+        "tUniq": "(dash-beta-informations)",
+        "tTip": "Para clientes com dúvidas sobre a Dashboard beta"
     },
     {
         "id": 243,
