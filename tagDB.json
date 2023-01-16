@@ -165,7 +165,7 @@
         "mArea": "ACCREDITATION",
         "mAreaT": "(accreditation)(logged-out)",
         "tUniq": "(logged-in-wrong-account)",
-        "tTip": "Para casos onde nosso EC loga na conta de Cardholder e não percebe, gerando problemas"
+        "tTip": "Para casos onde nosso EC está logado na conta errada"
     },
     {
         "id": 25,
