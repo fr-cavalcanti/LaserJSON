@@ -309,498 +309,498 @@
     },
     {
         "id": 45,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(authorization)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(authorization)",
         "tUniq": "(denied-monitoring-informations)",
         "tTip": "Explicação sobre venda para parentes e a possibilidade de recusa de transações consideradas atípicas"
     },
     {
         "id": 46,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(authorization)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(authorization)",
         "tUniq": "(auth-code-information)",
         "tTip": "Casos onde o cliente solicita o código AUT (auth) da venda para uso em relatórios externos"
     },
     {
         "id": 47,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pix)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pix)",
         "tUniq": "(smart)(pix-informations)",
         "tTip": "Instruções para realização de venda via PIX na POS."
     },
     {
         "id": 48,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(activation-failed)",
         "tTip": "Para casos onde há problemas na ativação da POS"
     },
     {
         "id": 49,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(buy-second-pos)",
         "tTip": "Informações sobre aquisição de segunda POS."
     },
     {
         "id": 50,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(connection-issues)(wifi)",
         "tTip": "Para problemas gerais de Wifi em qualquer modelo de POS"
     },
     {
         "id": 51,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(battery-issues)",
         "tTip": "Para problemas de bateria na P2"
     },
     {
         "id": 52,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(cache-cleaning)",
         "tTip": "Processo de limpeza de cache na p2"
     },
     {
         "id": 53,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2-informations)",
         "tTip": "Informações gerais sobre a P2"
     },
     {
         "id": 54,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(pos-swap)",
         "tTip": "Para casos onde há troca/swap de POS"
     },
     {
         "id": 55,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(printing-issues)",
         "tTip": "Para casos de problema de impressão"
     },
     {
         "id": 56,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(roller-paper-informations)",
         "tTip": "Informações gerais sobre bobinas"
     },
     {
         "id": 57,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920-p2)(battery-issues)",
         "tTip": "Problemas de bateria na P2 ou s920"
     },
     {
         "id": 58,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(battery-issues)",
         "tTip": "Para problemas de bateria na s920"
     },
     {
         "id": 59,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(battery-triage)",
         "tTip": "Processo de triagem de problemas na bateria da s920."
     },
     {
         "id": 60,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(connection)(chip)",
         "tTip": "Para questões gerais sobre conexão de chip na s920"
     },
     {
         "id": 61,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(connection)(wifi)",
         "tTip": "Para questões gerais sobre conexão wifi na s920"
     },
     {
         "id": 62,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920-informations)",
         "tTip": "Para dúvidas gerais sobre a s920"
     },
     {
         "id": 63,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(pix-informations)",
         "tTip": "Cliente perguntando sobre venda via PIX/QR Code na s920"
     },
     {
         "id": 64,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(software-charge)",
         "tTip": "Carga de sistema na POS s920"
     },
     {
         "id": 65,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(smart)(activation-information)",
         "tTip": "Passo a passo de ativação de POS modelo Smart"
     },
     {
         "id": 66,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(smart)(battery-issues)",
         "tTip": "Para problema de bateria em modelos Smart (P2/x990)"
     },
     {
         "id": 67,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(touchscreen-impaired)",
         "tTip": "Problemas gerais no touchscreen/tela"
     },
     {
         "id": 68,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(typed-sale)",
         "tTip": "Informações sobre venda digitada"
     },
     {
         "id": 69,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(warranty-informations)",
         "tTip": "Questões sobre a garantia de POS"
     },
     {
         "id": 70,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(battery-issues)",
         "tTip": "Solicitação de dados de consumo da bateria de POS x990"
     },
     {
         "id": 71,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(cache-cleaning)",
         "tTip": "Processo de limpeza de cache na x990"
     },
     {
         "id": 72,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990-informations)",
         "tTip": "Para dúvidas gerais sobre a x990"
     },
     {
         "id": 73,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(timezone)",
         "tTip": "Instruções de ajuste do fuso horário da máquina para regiões fora do horário de Brasília."
     },
     {
         "id": 74,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(timezone)(gmt-3)",
         "tTip": "Instruções de ajuste do fuso horário da máquina para regiões que seguem o horário de Brasília"
     },
     {
         "id": 75,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(deleted-app)",
         "tTip": "ECs que deletaram o app da InfinitePay de sua x990"
     },
     {
         "id": 76,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(deleted-app)",
         "tTip": "ECs que deletaram o app da InfinitePay de sua P2"
     },
     {
         "id": 77,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(keyboard-issues)",
         "tTip": "Problemas no teclado físico da s920"
     },
     {
         "id": 78,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(slow-or-freezing)",
         "tTip": "P2 lenta ou travando"
     },
     {
         "id": 79,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(slow-or-freezing)",
         "tTip": "x990 lenta ou travando"
     },
     {
         "id": 80,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(slow-or-freezing)",
         "tTip": "s920 lenta ou travando"
     },
     {
         "id": 81,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(promotion-upgrade-pos)",
         "tTip": "Para upgrades de POS"
     },
     {
         "id": 82,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(chip-hologram-free-exchange)",
         "tTip": "Para casos onde enviamos um chip Algar gratuito para chips Hologram desativados"
     },
     {
         "id": 83,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(ped-tampered)",
         "tTip": "PED Tamper em s920"
     },
     {
         "id": 84,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(ped-tampered)",
         "tTip": "PED Tamper em x990"
     },
     {
         "id": 85,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(ped-tampered)",
         "tTip": "PED Tamper em p2"
     },
     {
         "id": 86,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(swapped-pos-activation)",
         "tTip": "Para quando o nosso EC recebe a POS de troca, mas não consegue ativá-la"
     },
     {
         "id": 87,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(internal-WF)(battery-issues)",
         "tTip": "Para quando abrimos o WF interno (de notas) para validação do Guardian sobre casos de Bateria"
     },
     {
         "id": 88,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(internal-WF)(ped-tampered)",
         "tTip": "Para quando abrimos o WF interno (de notas) para validação do Guardian sobre casos de Ped Tamper"
     },
     {
         "id": 89,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(deactivated-chip)",
         "tTip": "Para casos de chips inativados"
     },
     {
         "id": 90,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(permanent-chip-deactivation)",
         "tTip": "Para casos de chips inativados permanentemente, conforme anúncio do Luis Rosa"
     },
     {
         "id": 91,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(connection)(chip-nano)",
         "tTip": "Para caso de problemas com chips no slot errado da P2"
     },
     {
         "id": 92,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(no-SIM-POS-dispute)",
         "tTip": "Cliente reclama do recebimento da máquina sem chip"
     },
     {
         "id": 93,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(unrecoverable-pos)",
         "tTip": "Para POS irrecuperáveis, mas sem mau uso. (Ex: roubo, enchentes, etc)"
     },
     {
         "id": 94,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(misused-pos)",
         "tTip": "Para POS danificadas por mau uso"
     },
     {
         "id": 95,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(pos)(card-sale-tutorial)",
         "tTip": "Para tutorial ou dúvida sobre como vender usando cartões numa POS"
     },
     {
         "id": 96,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(pos)(nfc-sale-tutorial)",
         "tTip": "Para tutorial ou dúvida sobre como vender usando aproximação numa POS"
     },
     {
         "id": 97,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(s920)(update)",
         "tTip": "Para quando precisamos atualizar uma s920"
     },
     {
         "id": 98,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(smart)(update)",
         "tTip": "Para quando precisamos atualizar uma POS Smart"
     },
     {
         "id": 99,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(connection)(chip)(cw)",
         "tTip": "Para problemas com chip nosso (Algar) na P2"
     },
     {
         "id": 100,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(p2)(connection)(chip)(proprio)",
         "tTip": "Para problemas com chip próprio na P2"
     },
     {
         "id": 101,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(connection)(chip)(cw)",
         "tTip": "Para problemas com chip nosso (Algar) na X990"
     },
     {
         "id": 102,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(x990)(connection)(chip)(proprio)",
         "tTip": "Para problemas com chip próprio na x990"
     },
     {
         "id": 103,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(pos)(nfc-informations)",
         "tTip": "Para dúvidas gerais do funcionamento da função NFC nas POSes"
     },
     {
         "id": 104,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(pos)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(pos)",
         "tUniq": "(smart)(connection)(wifi)",
         "tTip": "Dúvidas ou problemas gerais com wifi nas POSes Smart"
     },
     {
         "id": 105,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(enough-funds)",
         "tTip": "Confirmação de cancelamento de venda para cliente que tem recebíveis suficientes a serem descontados"
     },
     {
         "id": 106,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(insufficient-funds)",
         "tTip": "Cliente sem recebíveis suficientes para solicitação de cancelamento de venda"
     },
     {
         "id": 107,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(refund-informations)",
         "tTip": "Informações sobre prazo e fluxo de estorno de vendas canceladas"
     },
     {
         "id": 108,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(transfer-cw-details)",
         "tTip": "Dados da conta bancária da CW para clientes que optem por fazer transferência ao solicitar cancelamento de venda"
     },
     {
         "id": 109,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(d0-refund-request)",
         "tTip": "Interesse em cancelamento de venda em plano d+0"
     },
     {
         "id": 110,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(d0-refund-information)",
         "tTip": "Informações sobre cancelamento de venda em plano d+0"
     },
     {
         "id": 111,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(pos)(transaction-refund)",
         "tTip": "Para dúvidas sobre como cancelar vendas na POS"
     },
     {
         "id": 112,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(transaction-refund-request)",
         "tTip": "Confirmação de solicitação de cancelamento de venda"
     },
     {
         "id": 113,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(refund)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(refund)",
         "tUniq": "(transaction-refund-interest)",
         "tTip": "Interesse e explicação sobre cancelamento de venda"
     },
     {
         "id": 114,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(sales)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(sales)",
         "tUniq": "(pos-expensive)",
         "tTip": "Explicação sobre a diferença de preço da segunda POS"
     },
     {
         "id": 115,
-        "mArea": "POS-DOUBT",
-        "mAreaT": "(pos-doubt)(sales)",
+        "mArea": "POS-QUERIES",
+        "mAreaT": "(pos-queries)(sales)",
         "tUniq": "(pos-price-informations)",
         "tTip": "Informações sobre o preço das máquinas e do Link de Pagamento"
     },
@@ -1730,645 +1730,645 @@
     },
     {
         "id": 248,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(cerc)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(cerc)",
         "tUniq": "(cerc-plea)",
         "tTip": "Abertura de contestação de CERC"
     },
     {
         "id": 249,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(cerc)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(cerc)",
         "tUniq": "(cerc-informations)",
         "tTip": "Informações e dúvidas sobre a CERC"
     },
     {
         "id": 250,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(chargeback-informations)",
         "tTip": "Informações gerais sobre chargeback que não se enquadrem nas demais tags dessa categoria."
     },
     {
         "id": 251,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(dispute-documents-app)",
         "tTip": "Instruções para abertura de disputa de chargeback via app"
     },
     {
         "id": 252,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(fraudulent-transaction-chargeback)",
         "tTip": "Cliente que sofreu chargeback de tipo fraude"
     },
     {
         "id": 253,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(payment-link-safety-tips)",
         "tTip": "Dicas para o cliente se precaver contra chargebacks em vendas via link."
     },
     {
         "id": 254,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(cbk-payment-methods)",
         "tTip": "Dúvidas sobre como pagar um chargeback"
     },
     {
         "id": 255,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(dispute-documents-request)",
         "tTip": "Para casos onde solicitamos documentação para disputa de CBK para o EC no chat"
     },
     {
         "id": 256,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(payment-link-cardholder-chargeback)",
         "tTip": "Para quando o cardholder entra em contato conosco por problemas com sua compra em um merchant nosso"
     },
     {
         "id": 257,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(pix-infraction)",
         "tTip": "Para casos de Pix Infractions"
     },
     {
         "id": 258,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(cardholder-chargeback-request)",
         "tTip": "Para quando cardholders têm problemas com merchants nossos e solicitam chargeback"
     },
     {
         "id": 259,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(chargeback)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(chargeback)",
         "tUniq": "(withdraw-locked-chargeback)",
         "tTip": "Withdraw locked de Chargeback"
     },
     {
         "id": 260,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(collection)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(collection)",
         "tUniq": "(collection-negotiation)",
         "tTip": "Encaminhamento de tratativa de cobrança para parceira externa para negociação de valores"
     },
     {
         "id": 261,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(collection)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(collection)",
         "tUniq": "(collection-receipt)",
         "tTip": "Comprovante/recibo de pagamento referente a billing"
     },
     {
         "id": 262,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(collection)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(collection)",
         "tUniq": "(pending-billing-informations)",
         "tTip": "Informações sobre uma billing específica e como quitá-la"
     },
     {
         "id": 263,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(collection)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(collection)",
         "tUniq": "(pending-billing-leader)",
         "tTip": "Informações sobre a parceira de cobrança Leader"
     },
     {
         "id": 264,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(collection)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(collection)",
         "tUniq": "(pending-billing-meireles)",
         "tTip": "Informações sobre a parceira de cobrança Meireles e Freitas"
     },
     {
         "id": 265,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(homebank-receivables)",
         "tTip": "Duvidas sobre recebiveis em BRLC ou Homebanking"
     },
     {
         "id": 266,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(delayed-minting)",
         "tTip": "Para casos onde a mintagem dos BRLCs atrasa, deixando a transfer como success mas o valor indisponível"
     },
     {
         "id": 267,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(opt-in-request)",
         "tTip": "Solicitação de entrada no homebanking"
     },
     {
         "id": 268,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(opt-out-request)",
         "tTip": "Solicitação de remoção do homebanking"
     },
     {
         "id": 269,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(hb-payment-delay)",
         "tTip": "Reclamações de atrasos em pagamentos no homebanking"
     },
     {
         "id": 270,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(hb-receivables-dispute)",
         "tTip": "Quando o cliente questiona o valor recebido na transferência, dizendo que está errado"
     },
     {
         "id": 271,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(hb-receivables-informations)",
         "tTip": "Informações gerais de recebimento no homebanking"
     },
     {
         "id": 272,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(bank-slip-error)",
         "tTip": "Para clientes com problemas no sistema de Boletos da nossa conta digital"
     },
     {
         "id": 273,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(bank-slip-informations)",
         "tTip": "Para informações/dúvidas gerais sobre o pagamento de boletos pelo nosso homebanking"
     },
     {
         "id": 274,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(homebanking)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(homebanking)",
         "tUniq": "(hb-offer)",
         "tTip": "Para casos onde ofertamos o Homebanking ao cliente"
     },
     {
         "id": 275,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(cardholder-blocked)",
         "tTip": "Informações sobre bloqueio de conta de cardholder."
     },
     {
         "id": 276,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(transfer-monitoring)",
         "tTip": "Atendimento sendo encaminhado para monitoring"
     },
     {
         "id": 277,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-loading-loop)",
         "tTip": "Instruções para resolução de tela travada durante validação da UNICO"
     },
     {
         "id": 278,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-validation-denied)",
         "tTip": "Atendimento sendo encaminhado para fila de UNICO denied"
     },
     {
         "id": 279,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-validation-resent)",
         "tTip": "Reenvio de link de validação da UNICO"
     },
     {
         "id": 280,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-validation-tips)",
         "tTip": "Dicas para facilitar validação de identidade via UNICO"
     },
     {
         "id": 281,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-validation)",
         "tTip": "Instruções para validação de identidade da UNICO que temos no app"
     },
     {
         "id": 282,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-information)",
         "tTip": "Informações sobre bloqueio de recebíveis e respaldo contratual para o mesmo"
     },
     {
         "id": 283,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-manual-validation-denied)",
         "tTip": "(Fila UNICO) Quando negamos um EC por validação manual"
     },
     {
         "id": 284,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-manual-validation-approved)",
         "tTip": "(Fila UNICO) Quando aprovamos um EC por validação manual"
     },
     {
         "id": 285,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-reschedule)",
         "tTip": "(Fila UNICO) Reagendamento de meet UNICO"
     },
     {
         "id": 286,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-video-completed)",
         "tTip": "(Fila UNICO) Vídeo do meet da UNICO corretamente processado"
     },
     {
         "id": 287,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-validation-resent-approved)",
         "tTip": "(Fila UNICO) Validação reenviada com EC approved"
     },
     {
         "id": 288,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-RL-divergent)",
         "tTip": "(Fila UNICO) RL divergente"
     },
     {
         "id": 289,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-doc-request)",
         "tTip": "(Fila UNICO) Requisição de documentos"
     },
     {
         "id": 290,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-waiting-appointment)",
         "tTip": "(Fila UNICO) Aguardando agendamento"
     },
     {
         "id": 291,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-waiting-return)",
         "tTip": "(Fila UNICO) Aguardando retorno do EC"
     },
     {
         "id": 292,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-manual-validation-ok)",
         "tTip": "(Fila UNICO) Validação manual iniciada"
     },
     {
         "id": 293,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(UNICO-scheduled)",
         "tTip": "(Fila UNICO) Validação agendada"
     },
     {
         "id": 294,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(merchant-blocked-insist)",
         "tTip": "Para ECs que insistem em chats sobre descredenciamento, até o ponto onde podemos encerrar o chat"
     },
     {
         "id": 295,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-cardholder)",
         "tTip": "Cardholders com Withdraw locked"
     },
     {
         "id": 296,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-not-notified)",
         "tTip": "Merchants que não tiveram seu WL notificado"
     },
     {
         "id": 297,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-monitoring)",
         "tTip": "Withdraw locked de Monitoring"
     },
     {
         "id": 298,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-suspicious-transaction)",
         "tTip": "Withdraw locked devido transação suspeita/suspeita de fraude"
     },
     {
         "id": 299,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-temporary)",
         "tTip": "Withdraw locked temporário"
     },
     {
         "id": 300,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(withdraw-locked-business-validation)",
         "tTip": "Withdraw locked p/ validação de negócio"
     },
     {
         "id": 301,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(monitoring)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(monitoring)",
         "tUniq": "(business-validation-information)",
         "tTip": "Informações gerais sobre validação de negócio"
     },
     {
         "id": 302,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(pix)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(pix)",
         "tUniq": "(brlc-informations)",
         "tTip": "Dúvidas gerais sobre BRLC, exceto sobre como fazer transferência."
     },
     {
         "id": 303,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(pix)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(pix)",
         "tUniq": "(brlc-transfer-guide)",
         "tTip": "Dúvida sobre como realizar transferência de BRLC."
     },
     {
         "id": 304,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(pix)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(pix)",
         "tUniq": "(brlc-transfer-informations)",
         "tTip": "Dúvidas sobre uma transferência de BRLC."
     },
     {
         "id": 305,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(pix)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(pix)",
         "tUniq": "(pix-cashin-guide)",
         "tTip": "Cliente pede orientações sobre como fazer um Pix para a InfiniteWallet"
     },
     {
         "id": 306,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(pix)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(pix)",
         "tUniq": "(pix-receipt)",
         "tTip": "Questões envolvendo recibo de transações Pix"
     },
     {
         "id": 307,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(peac-maquininhas)",
         "tTip": "Explicação do programa PEAC Maquininhas."
     },
     {
         "id": 308,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(cip-explanation)",
         "tTip": "Explicação do que é a CIP."
     },
     {
         "id": 309,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(cip)",
         "tTip": "Instabilidade na liquidação de recebíveis por problemas na CIP."
     },
     {
         "id": 310,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d30-information)",
         "tTip": "Cliente interessado em aderir ao programa de não antecipação"
     },
     {
         "id": 311,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d30-interested)",
         "tTip": "Cliente interessado em aderir ao programa de não antecipação"
     },
     {
         "id": 312,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-delayed-error-cw)",
         "tTip": "Pagamento em atraso que consta com erro em nosso sistema devido a questões internas (falha da CW)"
     },
     {
         "id": 313,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-delayed-error)",
         "tTip": "Pagamento em atraso que consta com erro em nosso sistema devido a questões externas (falha do banco)"
     },
     {
         "id": 314,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-delayed-pending)",
         "tTip": "Pagamento em atraso que consta como pendente em nosso sistema"
     },
     {
         "id": 315,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-delayed-success)",
         "tTip": "Pagamento em atraso que consta como sucesso em nosso sistema"
     },
     {
         "id": 316,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-instability)",
         "tTip": "Instabilidade na liquidação de recebíveis por problemas internos"
     },
     {
         "id": 317,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(split-payment)",
         "tTip": "Explicação do modelo de pagamento fracionado"
     },
     {
         "id": 318,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(receivables-informations)",
         "tTip": "Informações gerais sobre os valores de recebimento."
     },
     {
         "id": 319,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(cpf-account-transfer)",
         "tTip": "Transferência para conta PF"
     },
     {
         "id": 320,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-delayed-in-transfer)",
         "tTip": "Pagamentos em atraso que ainda não tem transfer gerada, mas aparecem como \"To be made available today\""
     },
     {
         "id": 321,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(receivables-dispute) ",
         "tTip": "Quando o cliente questiona o valor recebido na transferência, dizendo que está errado"
     },
     {
         "id": 322,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-delay)",
         "tTip": "Quando o cliente reclama na demora dos pagamentos, mas que é resolvido em pouco tempo. Pode ser algo de risco, erro geral ou falha de pagamento"
     },
     {
         "id": 323,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(payment-time)",
         "tTip": "Quando o cliente solicita pagamentos mais cedo, reclamando do horário padrão"
     },
     {
         "id": 324,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(spot-anticipation)",
         "tTip": "Para atendimentos gerais relacionados ao Spot anticipation"
     },
     {
         "id": 325,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-information)",
         "tTip": "cliente com dúvidas sobre funcionamento geral do programa d+0 de antecipação"
     },
     {
         "id": 326,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-interested)",
         "tTip": "cliente interessado em aderir ao programa d+0 de antecipação"
     },
     {
         "id": 327,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-payment-delay)",
         "tTip": "quando o cliente reclama na demora dos pagamentos, mas que é resolvido em pouco tempo. Pode ser algo de risco, erro geral ou falha de pagamento"
     },
     {
         "id": 328,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-payment-instability)",
         "tTip": "Instabilidade na liquidação de recebíveis por problemas internos"
     },
     {
         "id": 329,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(spot-anticipation-request)",
         "tTip": "Para ECs que querem aderir ao Spot Anticipation"
     },
     {
         "id": 330,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(spot-anticipation-value-availability)",
         "tTip": "Questionamentos relacionados à disponibilidade de valores/vendas para antecipação via Spot"
     },
     {
         "id": 331,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(spot-anticipation-error)",
         "tTip": "Para erros ao antecipar vendas pelo app"
     },
     {
         "id": 332,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(spot-anticipation-informations)",
         "tTip": "Informações gerais do Spot Anticipation"
     },
     {
         "id": 333,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(spot-anticipation-status-error)",
         "tTip": "Quando o status da antecipação aparece como liquidado, mas não houve depósito referente"
     },
     {
         "id": 334,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-email-interested)",
         "tTip": "Para clientes que receberam o Push do dia 06/12 e retornaram com interesse no plano D0"
     },
     {
         "id": 335,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(legally-blocked-receivables)",
         "tTip": "Para clientes com valores bloqueados devido alguma ação judicial"
     },
     {
         "id": 336,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(duplicate-payment-transfer)",
         "tTip": "Para casos onde o cliente recebeu uma transfer nossa de forma duplicada"
     },
     {
         "id": 337,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-unqualified)",
         "tTip": "Para clientes que são inaptos ao plano D0"
     },
     {
         "id": 338,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-pending-risk)",
         "tTip": "Para clientes que estão aguardando análise de risco para entrada no D0"
     },
     {
         "id": 339,
-        "mArea": "WITHDRAWS",
-        "mAreaT": "(withdraws)(receivables)",
+        "mArea": "WITHDRAWALS",
+        "mAreaT": "(withdrawals)(receivables)",
         "tUniq": "(d0-removal)",
         "tTip": "Para clientes que querem sair do plano D+0"
     },
